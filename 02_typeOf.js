@@ -10,6 +10,8 @@ console.log("your Marks are :", marks," And the data type of marks is :",typeof 
 
 console.log("**********************************");
 
+
+
 var isWorking;
 
 console.log("The type of isworking is before intilizing :" , typeof isWorking);
